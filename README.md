@@ -41,17 +41,15 @@ It jointly models entity appearance, motion, geometry, and temporal relations, t
 ---
 
 ## 🎬 Demo Video
-
 <div align="center">
-  <video src="assets/interact_demo.mp4" width="90%" controls>
-    Your browser does not support the video tag.
-  </video>
-  <p><sub><b>Video.</b> <i>[TODO: add the INTERACT demonstration video at <code>assets/interact_demo.mp4</code>]</i></sub></p>
+[![INTERACT Demo](assets/demo_thumbnail.png)](assets/interact_demo.mp4)
 </div>
+<p align="center"><sub><b>Video.</b> Click the thumbnail to view the demo video of INTERACT.</sub></p>
 
 <br>
 
 ---
+
 
 ## 🧩 Framework
 
