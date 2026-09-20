@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/93161a08-3bf9-4e04-94b8-98fe0f05f80d
 </div>
 
 <p align="center">
-  <sub><b>Figure 2.</b> Overall framework of INTERACT. <i>[TODO: add the framework figure]</i></sub>
+  <sub><b>Figure 2.</b> Overall framework of INTERACT.</sub>
 </p>
 
 <br>
