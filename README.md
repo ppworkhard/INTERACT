@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖✨ 𝙄𝙉𝙏𝙀𝙍𝘼𝘾𝙏 ✨🤖
+# ✨ 𝙄𝙉𝙏𝙀𝙍𝘼𝘾𝙏 ✨
 
 ### Beyond Isolated Entities: Relation-Aware Multi-Entity Modeling for Unsupervised Video Anomaly Detection
 
@@ -29,18 +29,6 @@
 **INTERACT** detects abnormal interactions among people and objects, including cases where each entity appears normal individually but their spatial or motion relationship is unusual.
 
 It jointly models entity appearance, motion, geometry, and temporal relations, then combines interaction prediction with motion reconstruction and semantic consistency checking.
-
-<br>
-
-<div align="center">
-  <img src="assets/overall.png" width="96%" alt="Overview of INTERACT">
-</div>
-
-<p align="center">
-  <sub><b>Figure 1.</b> Overview of INTERACT. <i>[TODO: add the overview figure]</i></sub>
-</p>
-
-<br>
 
 <div align="center">
 
