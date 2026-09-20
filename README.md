@@ -2,7 +2,7 @@
 
 # 🤖✨ 𝙄𝙉𝙏𝙀𝙍𝘼𝘾𝙏 ✨🤖
 
-### Interaction-Centric Network for Temporal Entity-Relation Analysis and Consistency Testing
+### Beyond Isolated Entities: Relation-Aware Multi-Entity Modeling for Unsupervised Video Anomaly Detection
 
 <br>
 
