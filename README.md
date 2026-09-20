@@ -42,7 +42,7 @@ It jointly models entity appearance, motion, geometry, and temporal relations, t
 
 ## 🎬 Demo Video
 
-https://github.com/user-attachments/assets/93161a08-3bf9-4e04-94b8-98fe0f05f80d
+https://github.com/user-attachments/assets/a5fddce6-d3ab-479f-bf75-c88175d674ac
 
 <p align="center"><sub><b>Video.</b> INTERACT detection demonstration.</sub></p>
 
