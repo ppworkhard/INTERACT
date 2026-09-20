@@ -41,13 +41,10 @@ It jointly models entity appearance, motion, geometry, and temporal relations, t
 ---
 
 ## 🎬 Demo Video
-<div align="center">
-[![INTERACT Demo](assets/demo_thumbnail.png)](assets/interact_demo.mp4)
-</div>
-<p align="center"><sub><b>Video.</b> Click the thumbnail to view the INTERACT detection demonstration.</sub></p>
 
+https://github.com/user-attachments/assets/93161a08-3bf9-4e04-94b8-98fe0f05f80d
 
----
+<p align="center"><sub><b>Video.</b> INTERACT detection demonstration.</sub></p>
 
 
 ## 🧩 Framework
