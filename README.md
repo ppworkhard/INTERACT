@@ -78,8 +78,7 @@ It jointly models entity appearance, motion, geometry, and temporal relations, t
 ### 📦 Release Status
 
 `💻 Code — Coming Soon` &nbsp;&nbsp; · &nbsp;&nbsp;
-`🧠 Pretrained Models — Coming Soon` &nbsp;&nbsp; · &nbsp;&nbsp;
-`🎬 Demo Video — Coming Soon`
+`🧠 Pretrained Models — Coming Soon`
 
 </div>
 
@@ -91,5 +90,4 @@ It jointly models entity appearance, motion, geometry, and temporal relations, t
 
 - [ ] 💻 Source Code
 - [ ] 🧠 Pretrained Models
-- [ ] 🎬 Demo Video
 - [ ] 📄 Paper / Supplementary Material
