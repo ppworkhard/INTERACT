@@ -16,7 +16,7 @@
 
 <br>
 
-🚧 **Code · Pretrained Models · Demo Video — Coming Soon**
+🚧 **Code · Pretrained Models — Coming Soon**
 
 </div>
 
