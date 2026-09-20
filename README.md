@@ -44,9 +44,8 @@ It jointly models entity appearance, motion, geometry, and temporal relations, t
 <div align="center">
 [![INTERACT Demo](assets/demo_thumbnail.png)](assets/interact_demo.mp4)
 </div>
-<p align="center"><sub><b>Video.</b> Click the thumbnail to view the demo video of INTERACT.</sub></p>
+<p align="center"><sub><b>Video.</b> Click the thumbnail to view the INTERACT detection demonstration.</sub></p>
 
-<br>
 
 ---
 
