@@ -12,7 +12,7 @@
 
 <br>
 
-**Relation-aware multi-entity modeling for unsupervised video anomaly detection.**
+**Interaction-Centric Network for Temporal Entity-Relation Analysis and Consistency Testing.**
 
 <br>
 
